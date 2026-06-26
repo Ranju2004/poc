@@ -1,7 +1,3 @@
-From your uploaded **MVJ22EA43 - Principles of Communication Lab Manual**, here are the **11 experiment names**. The MATLAB programs are exactly as given in the manual. 
-
----
-
 ## Experiment 1: Amplitude Modulation and Demodulation
 
 ```matlab
