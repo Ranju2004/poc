@@ -570,6 +570,8 @@ xlabel('Time');
 ylabel('Amplitude');
 grid on;
 ```
+digital communication link simulation 
+
 <img width="561" height="389" alt="image" src="https://github.com/user-attachments/assets/f979d74e-95eb-426f-886b-3b2ea455f784" />
 
 <img width="499" height="811" alt="image" src="https://github.com/user-attachments/assets/52ee2ad4-73ff-471a-8830-0b1fe56ffd54" />
